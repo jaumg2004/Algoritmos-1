@@ -5,8 +5,8 @@ struct dados{
 	int identificacao;
 	double IM, FA;
 }stormtroopers;
-int main()
-{
+int main(){
+	
 	double GA=0;
 	int melhor;
 	
